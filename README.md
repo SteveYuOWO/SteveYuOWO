@@ -1,18 +1,16 @@
-\### Hi there. I am Steve Yu. 👋 
+### Hi there. I am Steve Yu. 👋 
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=SteveYuOWO/SteveYuOWO)
 
-I am student in university. 
+-  🔭 I’m currently working on [aftership](https://www.aftership.com/)
+
+- 🌱 I’m currently learning react.js/algorithm
+
+- 📫 How to reach me: [Steve's Blog](https://steveyuowo.com/)
+
+- 💬 Ask me about [Anything](https://github.com/SteveYuOWO/SteveYuOWO/issues)
 
 
-
-\- 🔭 I’m currently finding a job. Here is my [resume](https://steveyuowo.github.io/)
-
-\- 🌱 I’m currently learning react.js/algorithm
-
-\- 👯 I’m looking to collaborate on something
-
-\- 💬 Ask me about [Anything](https://github.com/SteveYuOWO/SteveYuOWO/issues)
 
 
 
