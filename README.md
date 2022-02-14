@@ -1,10 +1,8 @@
 ### Hi there. I am Steve Yu. 👋 
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=SteveYuOWO/SteveYuOWO)
+-  🔭 I’m currently working for Web3.0
 
--  🔭 I’m currently working on [aftership](https://www.aftership.com/)
-
-- 🌱 I’m currently learning react.js/algorithm
+- 🌱 I’m currently learning solidity/web3.js
 
 - 📫 How to reach me: [Steve's Blog](https://steveyuowo.com/)
 
