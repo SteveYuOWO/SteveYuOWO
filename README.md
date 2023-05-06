@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning solidity/web3.js
 
-- 📫 How to reach me: [Steve's Blog](https://steveyuowo.com/)
+- 📫 How to reach me: [Steve's Blog](https://steveyu.xlog.app)
 
 - 💬 Ask me about [Anything](https://github.com/SteveYuOWO/SteveYuOWO/issues)
 
